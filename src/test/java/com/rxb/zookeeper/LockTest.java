@@ -3,7 +3,6 @@ package com.rxb.zookeeper;
 import com.rxb.zookeeper.lock.ZKLock;
 import org.I0Itec.zkclient.ZkClient;
 
-import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Stream;
 
